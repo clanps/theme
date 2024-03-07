@@ -1,0 +1,24 @@
+{
+    "name": "Orange and brown theme",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#cc6e33",
+        "primary-color": "#FAB387",
+        "warning-color": "#FFAABB",
+
+        "sidebar-color": "#71564b",
+        "roomlist-background-color": "#4d3a33",
+        "roomlist-text-color": "#ffe5d6",
+        "roomlist-text-secondary-color": "#bd8f75",
+        "roomlist-highlights-color": "#4d3a33",
+        "roomlist-separator-color": "#997466",
+
+        "timeline-background-color": "#71564b",
+        "timeline-text-color": "#ffe5d6",
+        "secondary-content": "#ffe5d6",
+        "tertiary-content": "#ffe5d6",
+        "timeline-text-secondary-color": "#bd8f75",
+        "timeline-highlights-color": "#4d3a33",
+        "reaction-row-button-selected-bg-color": "#FAB387"
+    }
+}
